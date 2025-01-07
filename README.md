@@ -37,6 +37,8 @@ npm install
 4. Start the development server
 ```bash
 npm run dev
+![Screenshot 2025-01-07 141913](https://github.com/user-attachments/assets/fa8b3481-b063-43eb-b697-80c1b2d9c66c)
+
 ```
 
 
