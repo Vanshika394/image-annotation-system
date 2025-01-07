@@ -40,6 +40,7 @@ npm run dev
 ![Screenshot 2025-01-07 141913](https://github.com/user-attachments/assets/fa8b3481-b063-43eb-b697-80c1b2d9c66c)
 
 ```
+![Screenshot 2025-01-07 141913](https://github.com/user-attachments/assets/428daff1-5d3c-40cd-9608-8a345db9956c)
 
 
 
