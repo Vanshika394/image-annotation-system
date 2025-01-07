@@ -2,6 +2,9 @@
 # Image Annotation System
 
 A web-based application for annotating images with custom labels and notes, built with React and Supabase.
+![Screenshot 2025-01-07 141530](https://github.com/user-attachments/assets/70ad6562-443c-4f92-a209-a0704bfa00d7)
+![Screenshot (294)](https://github.com/user-attachments/assets/83aad214-ed66-42e7-839a-3e3f1aae3b03)
+
 
 ## Tech Stack
 
